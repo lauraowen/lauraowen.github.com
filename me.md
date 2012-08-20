@@ -27,6 +27,7 @@ conversations with them, and I am now in the final stages of commissioning the
 new software.
 
 ##### Key Roles, Skills, and Achievements
+
 <div class="columns">
 <div>
 <ul>
@@ -84,4 +85,118 @@ new software.
 </li>
 </ul>
 </div>
+<div style="clear:both; float: none;">&nbsp;</div>
+</div>
+
+### Education
+
+<table id="education-table">
+  <tr>
+    <th colspan="7">University of Warwick</th>
+  </tr>
+  <tr>
+    <td>2008 - 2011</td>
+    <td>Biomedical Sciences</td>
+    <td>BSc</td>
+    <td colspan="4">2nd Class 1st Division Honours</td>
+  </tr>
+  <tr>
+    <th colspan="7">St Anselm's Catholic School, Canterbury</th>
+  </tr>
+  <tr>
+    <td>2006 - 2008</td>
+    <td>Biology</td>
+    <td>GCE A2</td>
+    <td>C</td>
+    <td>Physics</td>
+    <td>GCE A2</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>GCE AS</td>
+    <td>B</td>
+    <td></td>
+    <td>GCE AS</td>
+    <td>B</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>Mathematics</td>
+    <td>GCE A2</td>
+    <td>A</td>
+    <td>Pyschology</td>
+    <td>GCE AS</td>
+    <td>C</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>GCE AS</td>
+    <td>A</td>
+    <td colspan="3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>2001 - 2006</td>
+    <td colspan="6">
+		  10 GCSEs, including Science (A*AA), Mathematics (A) and English Literature
+			(A) & Language (B). Also, short course GCSE ICT.
+		</td>
+  </tr>
+</table>
+
+I graduated from the University of Warwick in 2011 with an upper second-class
+honours degree in Biomedical Sciences (BSc). My main areas of study were viral
+diseases; modern approaches to human disease; bacterial diseases; and human
+biology.
+
+##### Key Projects at University
+
+<div class="columns">
+<div>
+<ul>
+<li>Laboratory work
+
+<ul>
+<li>Analytical skills developed through evaluation of procedures and results</li>
+</ul>
+</li>
+<li>Research-based dissertation
+
+<ul>
+<li>Ability to work as an individual</li>
+<li>Extensive research of literature</li>
+<li>Clear, yet effective, explanations of processes and conclusions</li>
+</ul>
+</li>
+<li>Group projects
+
+<ul>
+<li>Ability to lead a group to produce an information video for the public</li>
+<li>Solve problems quickly and efficiently to minimise delays</li>
+</ul>
+</li>
+</ul>
+</div>
+<div>
+<ul>
+<li>Individual presentations
+
+<ul>
+<li>Clear and effective communication of complicated topics</li>
+<li>Very positive comments from professors and other students alike</li>
+</ul>
+</li>
+<li>Dancing - Latin and Ballroom, Salsa
+
+<ul>
+<li>Very organised so I can balance work and a social life</li>
+<li>Won a medal in a national competition</li>
+<li>Performed in theatre and at One World Week</li>
+</ul>
+</li>
+</ul>
+</div>
+<div style="clear: both; float: none;">&nbsp;</div>
 </div>
