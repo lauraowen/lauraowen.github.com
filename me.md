@@ -28,32 +28,60 @@ new software.
 
 ##### Key Roles, Skills, and Achievements
 <div class="columns">
-  <div markdown="1">
-* Writing and sending the weekly newsletter
-	* Upgraded to MailChimp to improve the quality and speed of sending
-* Writing and sending the monthly bulletin board
-	* Re-designed to make it more modern and fit with the NGA branding
-* Maintaining and updating the website
-	* Reorganised content
-	* Innovated by introducing forums
-	* Analysis of readership through Google Analytics
-	* Self-taught basic HTML and CSS to aid understanding
-* Advertising events and conferences
-	* Updated the postal, email and fax booking system to online
-	* Our last conference was over-subscribed as a result of additional marketing
-  </div>
-	<div markdown="1">
-* Member of the conference team
-	* Responsible for delegate packs
-	* Communicating with speakers and exhibitors
-* Co-ordinating adverts for our magazine
-	* Key contact between sponsors, editor, and the advertising agency
-* Writing for our magazine
-	* Analysis of survey data
-	* Reports on conferences
-* Writing policy documents, including consultation responses, guidance, and briefing documents on legislation
-	* Independent research
-	* Re-written guide publications; sold 14,000 since January 2012
-	* Developed a house-style to strengthen the branding and image of NGA
-	</div>
+<div>
+<ul>
+<li>Writing and sending the weekly newsletter
+<ul>
+<li>Upgraded to MailChimp to improve the quality and speed of sending</li>
+</ul>
+</li>
+<li>Writing and sending the monthly bulletin board
+<ul>
+<li>Re-designed to make it more modern and fit with the NGA branding</li>
+</ul>
+</li>
+<li>Maintaining and updating the website
+<ul>
+<li>Reorganised content</li>
+<li>Innovated by introducing forums</li>
+<li>Analysis of readership through Google Analytics</li>
+<li>Self-taught basic HTML and CSS to aid understanding</li>
+</ul>
+</li>
+<li>Advertising events and conferences
+<ul>
+<li>Updated the postal, email and fax booking system to online</li>
+<li>Our last conference was over-subscribed as a result of additional marketing</li>
+</ul>
+</li>
+</ul>
+</div>
+<div>
+<ul>
+<li>Member of the conference team
+<ul>
+<li>Responsible for delegate packs</li>
+<li>Communicating with speakers and exhibitors</li>
+</ul>
+</li>
+<li>Co-ordinating adverts for our magazine
+<ul>
+<li>Key contact between sponsors, editor, and the advertising agency</li>
+</ul>
+</li>
+<li>Writing for our magazine
+<ul>
+<li>Analysis of survey data</li>
+<li>Reports on conferences</li>
+</ul>
+</li>
+<li>Writing policy documents, including consultation responses, guidance, and briefing documents on legislation
+<ul>
+<li>Independent research</li>
+<li>Re-written guide publications; sold 14,000 since January 2012</li>
+<li>Developed a house-style to strengthen the branding and image of NGA</li>
+</ul>
+</li>
+</ul>
+</div>
 </div>
