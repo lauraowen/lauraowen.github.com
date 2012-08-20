@@ -27,6 +27,8 @@ conversations with them, and I am now in the final stages of commissioning the
 new software.
 
 ##### Key Roles, Skills, and Achievements
+<div class="columns">
+  <div markdown="1">
 * Writing and sending the weekly newsletter
 	* Upgraded to MailChimp to improve the quality and speed of sending
 * Writing and sending the monthly bulletin board
@@ -39,6 +41,8 @@ new software.
 * Advertising events and conferences
 	* Updated the postal, email and fax booking system to online
 	* Our last conference was over-subscribed as a result of additional marketing
+  </div>
+	<div markdown="1">
 * Member of the conference team
 	* Responsible for delegate packs
 	* Communicating with speakers and exhibitors
@@ -51,3 +55,5 @@ new software.
 	* Independent research
 	* Re-written guide publications; sold 14,000 since January 2012
 	* Developed a house-style to strengthen the branding and image of NGA
+	</div>
+</div>
