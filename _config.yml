@@ -6,3 +6,4 @@ author:
 
 
 auto: true
+markdown: rdiscount
