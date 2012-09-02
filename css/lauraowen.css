@@ -28,6 +28,21 @@ body {
   font-style: normal;
   font-weight: 400;
   text-align: justify;
+  background: url('../png/lightpaperfibers.png') repeat;
+}
+
+footer {
+  font-size: 0.75em;
+  color: #999;
+  position: relative;
+}
+
+#copyright {
+  float: left;
+}
+
+#host {
+  float: right;
 }
 
 #wrapper {
